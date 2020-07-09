@@ -1,0 +1,12 @@
+* {
+    border: 1px solid black;
+}
+#id_pw {
+    display:flex;
+}
+#body_one {
+    display:flex;
+}
+#body_two {
+    display:flex;
+}
